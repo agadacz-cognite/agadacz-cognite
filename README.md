@@ -1,5 +1,5 @@
 ### Welcome to my lair
 
-We have a lot of code of questionable quality here
+This is a sacred land of cats, cookies and code of questionable quality 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=agadacz-cognite.agadacz-cognite)
